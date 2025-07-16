@@ -1,6 +1,6 @@
 # web-tracking-integration
 
-This project demonstrates a full integration of tracking, measurement, and privacy tools for a fictional coupon site called **MyBestDealz**.
+This project demonstrates a full integration of tracking, measurement, and privacy tools for a fictional coupon site called **MyBestDealz** (https://mybestdealz.shop/).
 
 ## Overview
 The goal is to showcase a professional tracking setup as part of a personal portfolio, focusing on:
